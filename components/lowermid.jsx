@@ -6,7 +6,7 @@ function LowerMid() {
           <p className="text-sm opacity-35 font-semibold text-slate-600">Sample Output</p>
         </div>
         <div className="shadow-md ">
-          <div className="flex items-center gap-1 text-sm font-bold text-slate-600">
+          <div className="flex items-center gap-1 text-sm font-bold text-slate-600 ml-2">
             <span class="material-symbols-outlined"><img src="/usericon.png " alt="usericon" className="h-[15px] w-[15px]"/></span>
             <p>Call Opening</p>
           </div>
