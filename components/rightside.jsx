@@ -60,7 +60,7 @@ function Search() {
         <input
         placeholder="Search"
         type="text"
-        className=" w-[50%] bg-slate-100 focus:outline-none   bg-slate-300 rounded-full px-3 py-1"
+        className=" w-[50%] bg-slate-100 focus:outline-none    rounded-full px-3 py-1"
       />
       <span class="material-symbols-outlined"><img src="/bell.png " alt="bell" className="h-[15px] w-[15px]"/></span>
       <span class="material-symbols-outlined"><img src="/moon.png " alt="darkmode" className="h-[15px] w-[15px]"/></span>
