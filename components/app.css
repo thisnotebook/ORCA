@@ -1,0 +1,5 @@
+
+.custom-width {
+    width: calc(100% - 600px);
+  }
+  
